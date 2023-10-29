@@ -1,7 +1,7 @@
 # SRA
 ### Sceintific Research Assosiation
 ---
-Scientific Research Association (SRA) is an assosiation that aims to help academic/interest-based researches by individuals/colleborates together with a Worldwide, community-based multimedia resources. The topics includes but not limited towards Physics, Chemistry, Biology, Technology, Culture studies.
+###Scientific Research Association (SRA) is an assosiation that aims to help academic/interest-based researches by individuals/colleborates together with a Worldwide, community-based multimedia resources. The topics includes but not limited towards Physics, Chemistry, Biology, Technology, Culture studies.
 The assosiation includes a community where people meets each other and make friends, a bill board where people share their thoughts or recruit members for their project, and a classroom where people learn, share, find resources or knowledge.
 ---
 ##How To  Join
